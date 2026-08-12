@@ -18,16 +18,18 @@ Centralizar material e interacciones de capacitación en una interfaz web sencil
 - `style.css`: estilos de la aplicación.
 - `app.js`: lógica e interacción del usuario.
 - Recursos gráficos utilizados por la interfaz.
+- `docs/capturas/`: espacio preparado para evidencias visuales del proyecto.
 
-## Valor del proyecto
+## Qué demuestra este proyecto
 
-Este proyecto refleja la construcción de herramientas internas orientadas a mejorar procesos operativos y de formación. Es un ejemplo de cómo una necesidad empresarial puede transformarse en una solución web práctica.
-
-## Buenas prácticas aplicadas
-
+- Desarrollo de herramientas internas para capacitación.
+- Organización de contenido e interacciones en una interfaz web.
 - Separación entre estructura, estilos y lógica.
-- Interfaz pensada para uso práctico.
-- Organización sencilla para facilitar mantenimiento.
+- Enfoque en usabilidad para procesos empresariales.
+
+## Capturas
+
+La guía de evidencias visuales recomendadas está disponible en [`docs/capturas/`](docs/capturas/README.md). Las imágenes se agregarán usando contenido autorizado o de demostración.
 
 ## Estado
 
